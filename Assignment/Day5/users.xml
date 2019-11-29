@@ -1,0 +1,17 @@
+<users org='Oracle' loc='PTP'>
+	<user id='1'>
+		<fname>Sachin</fname>
+		<lname>Tendulkar</lname>
+		<city>Bangalore</city>
+	</user>
+	<user id='2'>
+		<fname>Saurav</fname>
+		<lname>Ganguly</lname>
+		<city>Mumbai</city>
+	</user>
+	<user id='3'>
+		<fname>Rahul</fname>
+		<lname>Dravid</lname>
+		<city>Delhi</city>
+	</user>
+</users>

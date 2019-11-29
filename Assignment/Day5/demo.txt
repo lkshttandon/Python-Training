@@ -1,0 +1,38 @@
+[
+	{
+		"id":1,
+		"fname":"Sachin" ,
+		"lname":"Tendulkar",
+		"address":{
+					"houseno":17,
+					"streetno":19,
+					"area":"worli",
+					"city":"Mumbai",
+					"pin":1223445
+					}
+	},
+	{
+		"id":1,
+		"fname":"Ramesh" , 
+		"lname":"Gupta",
+		"address":{
+					"houseno":17,
+					"streetno":19,
+					"area":"worli",
+					"city":"Delhi",
+					"pin":1223445
+					}
+	},
+	{
+		"id":1,
+		"fname":"Rahul" ,
+		"lname":"Yadav",
+		"address":{
+					"houseno":17,
+					"streetno":19,
+					"area":"worli",
+					"city":"Patiala",
+					"pin":1223445
+					}
+	}
+]
